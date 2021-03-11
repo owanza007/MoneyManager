@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="circle1">#FFEB3B</color>
+    <color name="circle2">#48c0e3</color>
+    <color name="circle3">#53c5ab</color>
+    <color name="circle4">#f7756d</color>
+    <color name="circle5">#feb948</color>
+    <color name="rippleColor">#40ffffff</color>
+    <color name="backgroundColor">#ffffff</color>
+</resources>

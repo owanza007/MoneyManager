@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="key">key</string>
+
+    <!--Add Items Module-->
+    <string name="add_income">Thêm danh mục thu</string>
+    <string name="add_expense">Thêm danh mục chi</string>
+    <string name="categories">Tất cả danh mục</string>
+    <string name="category_name">Tên danh mục</string>
+    <string name="category_settings">Cài đặt danh mục</string>
+    <string name="add_new_category">+ Thêm danh mục mới</string>
+    <string name="expenses_list">Danh sách chi</string>
+    <string name="income_list">Danh sách thu</string>
+    <string name="details">Chi tiết</string>
+    <string name="category">Loại</string>
+    <string name="money">Số tiền</string>
+    <string name="date">Thời gian</string>
+    <string name="memo">Danh mục</string>
+    <string name="login_with_google">Đăng nhập bằng Google</string>
+    <string name="money_manager">Money Manager</string>
+    <string name="income">Thu</string>
+    <string name="balance">Số dư</string>
+    <string name="expenses">Chi</string>
+    <string name="profile">Trang cá nhân</string>
+    <string name="email">Email</string>
+    <string name="name">Tên</string>
+    <string name="last_time">Lần cuối đăng nhập</string>
+    <string name="export_form">Xuất dữ liệu</string>
+    <string name="start">Từ ngày</string>
+    <string name="end">Đến ngày</string>
+    <string name="format">Định dạng</string>
+    <string name="enter_your_category">Nhập tên danh mục</string>
+    <string name="chart">Biểu đồ</string>
+    <string name="export">Xuất</string>
+    <string name="setting">Cài đặt</string>
+    <string name="rate_us">Đánh giá</string>
+    <string name="about">Thông tin khác</string>
+    <string name="no">Hủy</string>
+    <string name="yes">OK</string>
+    <string name="today">Hôm nay</string>
+    <string name="note">Ghi chú</string>
+    <string name="version">Phiên bản</string>
+    <string name="version_code">Phiên bản mã nguồn</string>
+
+    <string name="jan">Th1</string>
+    <string name="feb">Th2</string>
+    <string name="mar">Th3</string>
+    <string name="apr">Th4</string>
+    <string name="may">Th5</string>
+    <string name="jun">Th6</string>
+    <string name="july">Th7</string>
+    <string name="aug">Th8</string>
+    <string name="sep">Th9</string>
+    <string name="oct">Th10</string>
+    <string name="nov">Th11</string>
+    <string name="dec">Th12</string>
+
+    <string name="alert_empty">Giao dịch rỗng hoặc vui lòng kiểm tra lại internet</string>
+
+    <string name="delete_title">Xóa danh mục</string>
+    <string name="delete_mes">Bạn chắc chắn xóa mục này chứ?</string>
+
+    <string name="logout_mes">Bạn chắc chắn muốn đăng xuất chứ?</string>
+    <string name="logout_title">Đăng xuất</string>
+
+    <string name="reload_success">Tải lại thành công!!</string>
+    <string name="category_exist">Danh mục đã tồn tại</string>
+    <string name="add_success">Thêm thanh công</string>
+
+    <string name="please_enter">Vui lòng nhập tên danh mục!</string>
+    <string name="error_format">Lỗi định dạng!!</string>
+    <string name="settings">Cài đặt</string>
+    <string name="add">Thêm</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="smart_reminder">Lời nhắc thông minh</string>
+    <string name="fire_notification">Thông báo vào 20:00</string>
+    <string name="no_reminder">Không có lời nhắc nào</string>
+
+    <string name="language_title">Đổi ngôn ngữ</string>
+    <string name="language_mes">Bạn chắc chắn muốn đổi ngôn ngữ chứ?</string>
+    <string name="rate_mes">Đánh giá của bạn sẽ giúp phát triển ứng dụng của chúng tôi</string>
+    <string name="language_selected">Ngôn ngữ đã được chọn!!</string>
+    <string name="create_reminder">Tạo lời nhắc</string>
+    <string name="select_category_error">Vui lòng chọn loại danh mục!</string>
+    <string name="infor_error">Vui lòng nhập đầy đủ thông tin!!</string>
+    <string name="thanks_feedback">Cảm ơn về phản hồi của bạn!!</string>
+
+    <!--    -->
+</resources>
